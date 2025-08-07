@@ -1,0 +1,49 @@
+/* COMETARIOS CSS */
+		body {
+		font-family: Courier;
+		background-color: #FAF7D8;
+		margin:auto;
+		width: 55%
+		}
+		
+		h1 {
+		color: #00AEDA;
+		}
+
+		p {
+		font-size: 15px;
+		}
+
+		img {
+		width: 100%
+		}
+
+		a {
+		color: #F20519;
+		text-decoration: none;
+		font-size: 18px; 
+		font-weight: bold;
+		}
+
+		a:hover {
+		color: #05AFF2;
+		text-decoration: underline;
+		}
+
+		div {
+		background-color: #FFFDF1;
+		padding: 21px;
+		border-radius: 18px;
+		margin: 21px
+		}
+
+		.logo {
+		width: 330px;
+		height: 330px; 
+		margin: 21px;
+		}
+
+		.centralizar {
+		text-align: center;
+		margin: auto;
+		}
